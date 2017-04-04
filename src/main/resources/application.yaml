@@ -1,0 +1,7 @@
+server:
+  port: 9000
+spring:
+  data:
+    neo4j:
+      username: neo4j
+      password: admin
